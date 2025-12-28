@@ -2,7 +2,7 @@
 
 **A custom-built Wi-Fi remote and Now Playing display for Plex, powered by ESP32-C3.**
 
-![Boot Screen](https://raw.githubusercontent.com/cryptooth/plex_oled/main/demo.jpg) <!-- You can add a photo later -->
+![Boot Screen](dedoy_oled/demo.jpg) <!-- Relative path works on GitHub -->
 
 ## 🌟 Features
 *   **Now Playing Display:** Shows Artist, Song, and Playback Status in real-time.
