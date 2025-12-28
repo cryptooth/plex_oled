@@ -1,0 +1,13 @@
+.DS_Store
+espspotifydisplay-master/
+esptwitterclient-master/
+
+# Arduino Build Files
+build/
+*.bin
+*.elf
+
+# Config & Secrets
+config.json
+secret.h
+dedoy_oled/config.json
