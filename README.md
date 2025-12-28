@@ -62,9 +62,10 @@
 
 ## 🎮 Controls
 *   **Main Screen:**
-    *   **Rotate:** N/A (Future: Volume)
+    *   **Rotate CW:** Next Track
+    *   **Rotate CCW:** Previous Track
     *   **Click:** Play / Pause
-    *   **Long Press:** Enter Menu
+    *   **Long Press:** Open/Close Menu
 *   **Menu:**
     *   **Rotate:** Scroll Items
     *   **Click:** Select Item
