@@ -1,8 +1,0 @@
-# Arduino Build Files
-build/
-*.bin
-*.elf
-
-# Config Files (Olur da test için oluşturursanız)
-config.json
-secret.h
