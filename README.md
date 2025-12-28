@@ -7,9 +7,9 @@
 ## 🌟 Features
 *   **Now Playing Display:** Shows Artist, Song, and Playback Status in real-time.
 *   **Rotary Control:** 
-    *   **Turn:** Adjust Volume / Scroll Menus.
+    *   **Turn:** Next / Previous Track.
     *   **Click:** Play / Pause.
-    *   **Double Click:** Next Track.
+    *   **Long Press:** Open Menu.
 *   **Plex Integration:** Connects directly to PMS server via API (No intermediary server needed).
 *   **Weather Screensaver:** Displays live temperature and weather conditions (via OpenMeteo) when idle.
 *   **Web Config Portal:** Easily configure WiFi, Plex IP/Token, and Weather settings via browser.
